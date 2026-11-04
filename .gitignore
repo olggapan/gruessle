@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.npm-cache/
+test-results/
+playwright-report/
+*.local
+.media-tools/
+artifacts/social-video/
