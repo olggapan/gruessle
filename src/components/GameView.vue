@@ -91,8 +91,8 @@ watch(copyStatus, async (status) => {
         <div class="location-icons" aria-hidden="true">⛪ 🐦 🌊</div>
         <p class="hero-sub">Wie viel <b>Schwaben-Respekt</b> schaffsch du in Ulm?</p>
         <button class="cta" type="button" @click="start()">LOS GEHT'S →</button>
-        <button class="cta alt" type="button" @click="start('auto')">▶ REEL DEMO · ~50 SEK.</button>
-        <p class="menu-note">8 Begegnungen · 3 Ulmer Orte · 3 Antworten pro Person<br>Handy: Tippen · Desktop: Taste 1 / 2 / 3</p>
+        <!-- <button class="cta alt" type="button" @click="start('auto')">▶ REEL DEMO · ~50 SEK.</button> -->
+        <!-- <p class="menu-note">8 Begegnungen · 3 Ulmer Orte · 3 Antworten pro Person<br>Handy: Tippen · Desktop: Taste 1 / 2 / 3</p> -->
       </div>
     </div>
 
