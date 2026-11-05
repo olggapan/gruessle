@@ -24,7 +24,7 @@ To inspect a production build, run `npm run build` followed by `npm run preview`
 
 ## Play
 
-- Start with **LOS GEHT'S**, Enter, or Space.
+- Start with **LOS GOHT'S**, Enter, or Space.
 - Click or tap a reply, or press **1**, **2**, or **3** during a dialogue.
 - Toggle background music and sound effects together with the Sound button during play. The original 92 BPM folk-style waltz stays quiet and automatically dips under effects.
 - Choose **REEL DEMO · ~50 SEK.** for an automatic run, with 3 seconds to read each question and its choices and 2.5 seconds for each answer reaction.

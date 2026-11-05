@@ -36,7 +36,7 @@ SPATZVERSE is an affectionate, surreal, mostly original fictional city inspired 
 
 ## Play and record
 
-1. Open `spatzverse_gruessle.html` in a desktop or mobile browser. Click **LOS GEHT'S** and choose options by tapping or pressing 1/2/3.
+1. Open `spatzverse_gruessle.html` in a desktop or mobile browser. Click **LOS GOHT'S** and choose options by tapping or pressing 1/2/3.
 2. For a video demonstration, click **25-SEC REEL DEMO**, record only the left-hand 9:16 game area, and overlay licensed dialogue recordings in editing.
 3. For final video exports: 1080×1920, subtitles with an optional Hochdeutsch translation, strong payoff in the first 2 seconds, 18–25 seconds for the initial social clip.
 4. The share button copies a score message, **not a deployed game link**. Host the HTML over HTTPS before distributing a playable public link.
